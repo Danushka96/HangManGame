@@ -1,0 +1,27 @@
+h1{
+	-webkit-text-stroke:0.5px #01bbd7;
+	-webkit-text-fill-color:white;
+}
+
+.submit{
+	background-color : #01bbd7;
+	color:white;
+	box-shadow:5px 5px 5px grey;
+	padding :16pz;
+	font-size:20px;
+	border : none;
+	cursor:pointer;
+}
+
+.center{
+	border : 2px solid red;
+	//margin-left : 100px;
+}
+
+.right{
+	//margin-right:100px;
+}
+
+body{
+	background-color : #ffffff;
+}
