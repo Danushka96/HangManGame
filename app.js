@@ -26,7 +26,7 @@ var newGame = function(){
 	for (var i=0;i<selectedWord.length;i++){
 		tempDisplayWord +='*'; 
 	}
-	console.log(tempDisplayWord);
+	console.log(tempDisplayWord);// this is shown in console
 	$scope.displayWord=tempDisplayWord;
 
 }
